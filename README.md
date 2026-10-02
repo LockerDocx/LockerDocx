@@ -44,7 +44,6 @@ was measured and what was not.
 | [Quatre40optics](https://github.com/LockerDocx/Quatre40optics) | Client website rebuilt from a Hostinger builder site into a maintained codebase and migrated to Vercel at no cost, with the DNS runbook included. | Next.js 14, React 18, TypeScript, Tailwind |
 | [Arnamar.sl](https://github.com/LockerDocx/Arnamar.sl) | Client AI platform for renovation work: natural-language input driving image editing, plus vision-based surface estimation from site photos. | React 18, Vite, TypeScript, Express, Gemini 2.5 |
 | [arduino-iot-monitor](https://github.com/LockerDocx/arduino-iot-monitor) | Final project for my systems and networks cycle: live temperature and humidity from an Arduino UNO + DHT11 to a web dashboard. | Arduino, Next.js, Firebase, TypeScript |
-| [mondo_computer](https://github.com/LockerDocx/mondo_computer) | Client website for an Italian computer retailer, built during my Erasmus+ placement. Includes a microphone-enabled AI assistant. | Next.js, TypeScript, DeepSeek |
 | [Webprodev](https://github.com/LockerDocx/Webprodev) | Website of my own studio: services, portfolio and pricing, plus client and admin dashboards and an AI chat widget. | React, TypeScript, Firebase |
 
 ## Experience
